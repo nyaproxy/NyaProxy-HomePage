@@ -18782,7 +18782,6 @@ a.dropdown-item.active {
 
 /*---/Banner-Style--*/
 /*--/slider--*/
-
 .w3lmain-gap {
     height: 90px;
 }
@@ -18809,7 +18808,7 @@ a.dropdown-item.active {
     position: relative;
 }
 
-.w3l-main-slider .banner-top1 {
+.w3l-main-slider .banner-view {
     background: url(../images/IPBan.png) no-repeat center;
     -ms-background-size: cover;
     background-size: cover;
@@ -19747,7 +19746,7 @@ ul.gallery_agile li {
 /*--//gallery--*/
 /*--/video--*/
 .w3l-index5 {
-    background: url(../images/na.png) no-repeat center;
+    background: url(../images/banner4.jpg) no-repeat center;
     -ms-background-size: cover;
     background-size: cover;
     z-index: 0;
@@ -20442,7 +20441,7 @@ div#small-dialog iframe {
 /*--//video--*/
 /*--/inner-banner--*/
 .inner-banner {
-    background: url(../images/banner2.jpg) no-repeat center;
+    background: url(../images/QQBot.png) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -20753,7 +20752,7 @@ h4.head {
 
 /*--//progress-info--*/
 .w3l-join-main {
-    background: url(../images/banner2.jpg) no-repeat center;
+    background: url(../images/QQBot.png) no-repeat center;
     -ms-background-size: cover;
     background-size: cover;
     z-index: 0;
@@ -21062,7 +21061,7 @@ h4.head {
 /*--//inner-banner--*/
 /*--/Error-Page--*/
 .w3l-error-grid {
-    background: url(../images/banner5.jpg) no-repeat center;
+    background: url(../images/na.png) no-repeat center;
     -ms-background-size: cover;
     background-size: cover;
     z-index: 0;
