@@ -603,7 +603,7 @@ progress {
 }
 
 .blockquote-footer::before {
-    content: "â€” "
+    content: "¡ª "
 }
 
 .img-fluid {
@@ -18806,7 +18806,7 @@ a.dropdown-item.active {
 }
 
 .w3l-main-slider .banner-view {
-    background: url(https://fastly.jsdelivr.net/gh/ours1505/NyaProxy-HomePage/assets/images/IPBan.png) no-repeat center;
+    background: url(../images/IPBan.png) no-repeat center;
     -ms-background-size: cover;
     background-size: cover;
     z-index: 0;
@@ -18818,17 +18818,17 @@ a.dropdown-item.active {
 }
 
 .w3l-main-slider .banner-top2 {
-    background: url(https://fastly.jsdelivr.net/gh/ours1505/NyaProxy-HomePage/assets/images/QQBot.png) no-repeat center;
+    background: url(../images/QQBot.png) no-repeat center;
     background-size: cover;
 }
 
 .w3l-main-slider .banner-top3 {
-    background: url(https://fastly.jsdelivr.net/gh/ours1505/NyaProxy-HomePage/assets/images/ping.png) no-repeat center;
+    background: url(../images/ping.png) no-repeat center;
     background-size: cover;
 }
 
 .w3l-main-slider .banner-top4 {
-    background: url(https://fastly.jsdelivr.net/gh/ours1505/NyaProxy-HomePage/assets/images/userinfo.png) no-repeat center;
+    background: url(../images/userinfo.png) no-repeat center;
     background-size: cover;
 }
 
@@ -19645,14 +19645,14 @@ ul.gallery_agile li {
 
 #Choco_left_arrow {
     float: left;
-    background-image: url(https://fastly.jsdelivr.net/gh/ours1505/NyaProxy-HomePage/assets/images/left.png) !important;
+    background-image: url(../images/left.png) !important;
     background-position: 12%;
     left: -20%;
 }
 
 #Choco_right_arrow {
     float: right;
-    background-image: url(https://fastly.jsdelivr.net/gh/ours1505/NyaProxy-HomePage/assets/images/right.png) !important;
+    background-image: url(../images/right.png) !important;
     background-position: 88%;
     left: 20%;
 }
@@ -19672,7 +19672,7 @@ ul.gallery_agile li {
     text-align: center;
     width: 800px;
     height: 600px;
-    /*background:url(https://fastly.jsdelivr.net/gh/ours1505/NyaProxy-HomePage/assets/images/ajax-loader.gif) center center no-repeat;*/
+    /*background:url(../images/ajax-loader.gif) center center no-repeat;*/
 }
 
 #Choco_container_description {
@@ -19711,7 +19711,7 @@ ul.gallery_agile li {
 #Choco_close {
     width: 32px;
     height: 32px;
-    background-image: url(https://fastly.jsdelivr.net/gh/ours1505/NyaProxy-HomePage/assets/images/close.png) !important;
+    background-image: url(../images/close.png) !important;
     background-repeat: no-repeat;
     z-index: 1002;
     cursor: pointer;
@@ -19722,7 +19722,7 @@ ul.gallery_agile li {
 #Choco_loading {
     width: 9px;
     height: 11px;
-    background-image: url(https://fastly.jsdelivr.net/gh/ours1505/NyaProxy-HomePage/assets/images/loading.gif);
+    background-image: url(../images/loading.gif);
     background-repeat: no-repeat;
     z-index: 1002;
     cursor: pointer;
@@ -20438,7 +20438,7 @@ div#small-dialog iframe {
 /*--//video--*/
 /*--/inner-banner--*/
 .inner-banner {
-    background: url(https://fastly.jsdelivr.net/gh/ours1505/NyaProxy-HomePage/assets/images/QQBot.png) no-repeat center;
+    background: url(../images/QQBot.png) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -20749,7 +20749,7 @@ h4.head {
 
 /*--//progress-info--*/
 .w3l-join-main {
-    background: url(https://fastly.jsdelivr.net/gh/ours1505/NyaProxy-HomePage/assets/images/QQBot.png) no-repeat center;
+    background: url(../images/QQBot.png) no-repeat center;
     -ms-background-size: cover;
     background-size: cover;
     z-index: 0;
