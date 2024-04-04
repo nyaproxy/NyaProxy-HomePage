@@ -603,7 +603,7 @@ progress {
 }
 
 .blockquote-footer::before {
-    content: "¡ª "
+    content: "Â¡Âª "
 }
 
 .img-fluid {
@@ -17802,7 +17802,7 @@ fieldset:disabled .btn {
     font-style: normal;
     font-weight: 400;
     font-display: block;
-    src: url("../webfonts/W01.ttf");}
+    src: url("../webfonts/W01.woff2");}
 
 .fab {
     font-family: 'Font Awesome 5 Brands';
@@ -17828,7 +17828,7 @@ fieldset:disabled .btn {
     font-style: normal;
     font-weight: 900;
     font-display: block;
-    src: url("../webfonts/W01.ttf");
+    src: url("../webfonts/W01.woff2");
     }
 
 .fa,
