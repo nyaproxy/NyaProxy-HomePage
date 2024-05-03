@@ -17798,6 +17798,7 @@ fieldset:disabled .btn {
 }
 
 
+
 @font-face {
     font-family: '仓耳渔阳体';
     font-style: normal;
@@ -18782,29 +18783,28 @@ a.dropdown-item.active {
 
 .w3l-main-slider .banner-view {
     background: url(../images/IPBan.png) no-repeat center;
-    -ms-background-size: cover;
-    background-size: cover;
+    -ms-background-size:auto;
+    background-size:auto; 
     z-index: 0;
     position: relative;
     display: grid;
     align-items: center;
     min-height: 700px;
-    background-size: cover;
 }
 
 .w3l-main-slider .banner-top2 {
     background: url(../images/QQBot.png) no-repeat center;
-    background-size: cover;
+    background-size:contain; 
 }
 
 .w3l-main-slider .banner-top3 {
     background: url(../images/ping.png) no-repeat center;
-    background-size: cover;
+    background-size:contain; 
 }
 
 .w3l-main-slider .banner-top4 {
     background: url(../images/userinfo.png) no-repeat center;
-    background-size: cover;
+    background-size:contain; 
 }
 
 .w3l-main-slider .banner-view:before {
@@ -22511,8 +22511,6 @@ a.next-post {
 
 /*--/ourteam--*/
 /*--/contact--*/
-.w3l-contact-main {}
-
 .w3l-contact-main .d-grid {
     display: grid;
 }
