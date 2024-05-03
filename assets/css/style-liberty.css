@@ -50,7 +50,7 @@ Author URL: http://w3layouts.com
 
 body {
     margin: 0;
-    font-family: 'Font Awesome 5 Brands', sans-serif;
+    font-family: '仓耳渔阳体', sans-serif;
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
@@ -255,7 +255,7 @@ code,
 kbd,
 pre,
 samp {
-    font-family: 'Font Awesome 5 Brands', sans-serif;
+    font-family: '仓耳渔阳体', sans-serif;
     font-size: 1em;
     direction: ltr;
     unicode-bidi: bidi-override
@@ -354,7 +354,7 @@ optgroup,
 select,
 textarea {
     margin: 0;
-    font-family: 'Font Awesome 5 Brands', sans-serif;
+    font-family: '仓耳渔阳体', sans-serif;
     font-size: inherit;
     line-height: inherit
 }
@@ -6281,7 +6281,7 @@ fieldset:disabled .btn {
     z-index: 1080;
     display: block;
     margin: 0;
-    font-family: 'Font Awesome 5 Brands', sans-serif;
+    font-family: '仓耳渔阳体', sans-serif;
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
@@ -6406,7 +6406,7 @@ fieldset:disabled .btn {
     z-index: 1070;
     display: block;
     max-width: 276px;
-    font-family: 'Font Awesome 5 Brands', sans-serif;
+    font-family: '仓耳渔阳体', sans-serif;
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
@@ -17797,34 +17797,9 @@ fieldset:disabled .btn {
     width: auto;
 }
 
-@font-face {
-    font-family: 'Font Awesome 5 Brands';
-    font-style: normal;
-    font-weight: 400;
-    font-display: block;
-    src: url("../webfonts/W01.woff2");}
-
-.fab {
-    font-family: 'Font Awesome 5 Brands';
-    font-weight: 400;
-}
 
 @font-face {
-    font-family: 'Font Awesome 5 Free';
-    font-style: normal;
-    font-weight: 400;
-    font-display: block;
-    src: url("../webfonts/fa-regular-400.eot");
-    src: url("../webfonts/fa-regular-400.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-regular-400.woff2") format("woff2"), url("../webfonts/fa-regular-400.woff") format("woff"), url("../webfonts/fa-regular-400.ttf") format("truetype"), url("../webfonts/fa-regular-400.svg#fontawesome") format("svg");
-}
-
-.far {
-    font-family: 'Font Awesome 5 Free';
-    font-weight: 400;
-}
-
-@font-face {
-    font-family: 'Font Awesome 5 Free';
+    font-family: '仓耳渔阳体';
     font-style: normal;
     font-weight: 900;
     font-display: block;
@@ -17833,7 +17808,7 @@ fieldset:disabled .btn {
 
 .fa,
 .fas {
-    font-family: 'Font Awesome 5 Free';
+    font-family: '仓耳渔阳体';
     font-weight: 900;
 }
 
@@ -17917,7 +17892,7 @@ html {
     padding: 0;
     background: var(--bg-color);
     color: var(--font-color);
-    font-family: 'Font Awesome 5 Brands', sans-serif;
+    font-family: '仓耳渔阳体', sans-serif;
 
 }
 
@@ -17952,7 +17927,7 @@ li,
 span {
     -webkit-appearance: none;
     outline: none;
-    font-family: 'Font Awesome 5 Brands', sans-serif;
+    font-family: '仓耳渔阳体', sans-serif;
 
 }
 
@@ -17988,7 +17963,7 @@ p {
     font-size: 18px;
     line-height: 28px;
     color: var(--font-color);
-    font-family: 'Font Awesome 5 Brands', sans-serif;
+    font-family: '仓耳渔阳体', sans-serif;
 
 }
 
