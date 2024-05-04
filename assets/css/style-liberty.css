@@ -18782,7 +18782,8 @@ a.dropdown-item.active {
 }
 
 .w3l-main-slider .banner-view {
-    background: url(https://image.baidu.com/search/down?url=www.nyaproxy.xyz/assets/images/IPBan.png) no-repeat center;
+    /* IPBan.png */
+    background: url(https://tncache1-f1.v3mh.com/image/2024/05/04/ce94c6048173f984eadfa407d4a0285e.png) no-repeat center;
     -ms-background-size:auto;
     background-size:auto; 
     z-index: 0;
@@ -18793,17 +18794,20 @@ a.dropdown-item.active {
 }
 
 .w3l-main-slider .banner-top2 {
-    background: url(https://image.baidu.com/search/down?url=www.nyaproxy.xyz/assets/images/QQBot.png) no-repeat center;
+    /* QQBot.png */
+    background: url(https://tncache1-f1.v3mh.com/image/2024/05/04/23a72ae8203dd33eb4bec6066969e2ce.png) no-repeat center;
     background-size:contain; 
 }
 
 .w3l-main-slider .banner-top3 {
-    background: url(https://image.baidu.com/search/down?url=www.nyaproxy.xyz/assets/images/ping.png) no-repeat center;
+    /* ping.png */
+    background: url(https://tncache1-f1.v3mh.com/image/2024/05/04/e8f1fd1f2b1c6d783b38fb2a877758a2.png) no-repeat center;
     background-size:contain; 
 }
 
 .w3l-main-slider .banner-top4 {
-    background: url(https://image.baidu.com/search/down?url=www.nyaproxy.xyz/assets/images/userinfo.png) no-repeat center;
+    /* userinfo.png */
+    background: url(https://tncache1-f1.v3mh.com/image/2024/05/04/2215dba61c6e7969cff6c2533daa8942.png) no-repeat center;
     background-size:contain; 
 }
 
@@ -19620,14 +19624,14 @@ ul.gallery_agile li {
 
 #Choco_left_arrow {
     float: left;
-    background-image: url(https://image.baidu.com/search/down?url=www.nyaproxy.xyz/assets/images/left.png) !important;
+    background-image: url(../images/left.png) !important;
     background-position: 12%;
     left: -20%;
 }
 
 #Choco_right_arrow {
     float: right;
-    background-image: url(https://image.baidu.com/search/down?url=www.nyaproxy.xyz/assets/images/right.png) !important;
+    background-image: url(..s/images/right.png) !important;
     background-position: 88%;
     left: 20%;
 }
@@ -19686,7 +19690,7 @@ ul.gallery_agile li {
 #Choco_close {
     width: 32px;
     height: 32px;
-    background-image: url(https://image.baidu.com/search/down?url=www.nyaproxy.xyz/assets/images/close.png) !important;
+    background-image: url(https://i1.wp.com/www.nyaproxy.xyz/assets/images/close.png) !important;
     background-repeat: no-repeat;
     z-index: 1002;
     cursor: pointer;
@@ -19718,7 +19722,7 @@ ul.gallery_agile li {
 /*--//gallery--*/
 /*--/video--*/
 .w3l-index5 {
-    background: url(https://image.baidu.com/search/down?url=www.nyaproxy.xyz/assets/images/na.png) no-repeat center;
+    background: url(https://i1.wp.com/www.nyaproxy.xyz/assets/images/na.png) no-repeat center;
     -ms-background-size: cover;
     background-size: cover;
     z-index: 0;
@@ -20413,7 +20417,7 @@ div#small-dialog iframe {
 /*--//video--*/
 /*--/inner-banner--*/
 .inner-banner {
-    background: url(https://image.baidu.com/search/down?url=www.nyaproxy.xyz/assets/images/QQBot.png) no-repeat center;
+    background: url(https://i1.wp.com/www.nyaproxy.xyz/assets/images/QQBot.png) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -20724,7 +20728,7 @@ h4.head {
 
 /*--//progress-info--*/
 .w3l-join-main {
-    background: url(https://image.baidu.com/search/down?url=www.nyaproxy.xyz/assets/images/QQBot.png) no-repeat center;
+    background: url(https://i1.wp.com/www.nyaproxy.xyz/assets/images/QQBot.png) no-repeat center;
     -ms-background-size: cover;
     background-size: cover;
     z-index: 0;
@@ -21033,7 +21037,8 @@ h4.head {
 /*--//inner-banner--*/
 /*--/Error-Page--*/
 .w3l-error-grid {
-    background: url(https://image.baidu.com/search/down?url=www.nyaproxy.xyz/assets/images/na.png) no-repeat center;
+    /* na.png */
+    background: url(https://tncache1-f1.v3mh.com/image/2024/05/04/3aa8fca4b2cecebc0399ae8227672cd4.png) no-repeat center; 
     -ms-background-size: cover;
     background-size: cover;
     z-index: 0;
